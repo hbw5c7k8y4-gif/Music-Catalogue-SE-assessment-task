@@ -1,34 +1,122 @@
 [
-{
-"extID":1,
-"name":"Render CR LF",
-"hyperlink":"https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf",
-"about":"Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on.",
-"image":"https://medo64.gallerycdn.vsassets.io/extensions/medo64/render-crlf/1.7.1/1689315206970/Microsoft.VisualStudio.Services.Icons.Default",
-"language":"#BASH"
-},
-{
-"extID":2,
-"name":"Start GIT BASH",
-"hyperlink":"https://marketplace.visualstudio.com/items?itemName=McCarter.start-git-bash",
-"about":"Adds a bash command to VSCode that allows you to start git-bash in the current workspace's root folder.",
-"image":"https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default",
-"language":"#BASH"
-},
-{
-"extID":3,
-"name":"SQLite3 Editor",
-"hyperlink":"https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor",
-"about":"Edit SQLite3 files like you would in spreadsheet applications.",
-"image":"https://yy0931.gallerycdn.vsassets.io/extensions/yy0931/vscode-sqlite3-editor/1.0.85/1690893830873/Microsoft.VisualStudio.Services.Icons.Default",
-"language":"SQL"
-},
-{
-"extID":4,
-"name":"Live Server",
-"hyperlink":"https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
-"about":"Launch a development local server with live reload.",
-"image":"images/liveserver.png",
-"language":"HTML"
-}
+  {
+    "songID": 1,
+    "name": "I Don't Wanna Stop",
+    "album": "Rawville",
+    "artist": "The Bamboos",
+    "genre": "R&B/Soul",
+    "length": "4:09",
+    "release": "2007-05-07",
+    "about": "Released as part of their 2007 album, it quickly became one of their most popular songs",
+    "rating": 4,
+    "image": "images/rawville.png"
+  },
+  {
+    "songID": 2,
+    "name": "Midnight In Richmond",
+    "album": "AM Waves",
+    "artist": "Young Gun Silver Fox",
+    "genre": "Soft Rock",
+    "length": "4:14",
+    "release": "2017-05-21",
+    "about": "The debut song of their sophomore album, Midnight In Richmond perfectly encapsulates the late 70s Soft Rock era.",
+    "rating": 5,
+    "image": "images/amwaves.png"
+  },
+  {
+    "songID": 3,
+    "name": "Fingerprints",
+    "album": "Choose Your Weapon",
+    "artist": "Hiatus Kaiyote",
+    "genre": "Neo Soul",
+    "length": "4:17",
+    "release": "2015-05-01",
+    "about": "Released on their Sophomore album, Fingerprints helped bring Hiatus Kaiyote into a mainstream spotlight, with their songs getting sampled by artists like Anderson Paak and Kendrick Lamar.",
+    "rating": 5,
+    "image": "images/chooseyourweapon.png"
+  },
+  {
+    "songID": 4,
+    "name": "Silly Love Songs",
+    "album": "At The Speed of Sound",
+    "artist": "Paul McCartney & Wings",
+    "genre": "Rock",
+    "length": "5:54",
+    "release": "1976-03-25",
+    "about": "Written as a direct reply to music critics who faulted McCartney for writing \"soppy\" or sentimental love songs, Silly Love Songs was written to prove that people still enjoyed \"Silly Love Songs\".",
+    "rating": 3,
+    "image": "images/atthespeedofsound.png"
+  },
+  {
+    "songID": 5,
+    "name": "Open Season",
+    "album": "Bacano",
+    "artist": "Orgone",
+    "genre": "R&B/Soul",
+    "length": "5:09",
+    "release": "2008-10-01",
+    "about": "\"Open Season\" by the Los Angeles band Orgone is a funk, soul, and afrobeat-infused track released on October 1, 2008, as the second song on their album Bacano.",
+    "rating": 4,
+    "image": "images/bacano.png"
+  },
+  {
+    "songID": 6,
+    "name": "Microdosing",
+    "album": "Soft Focus",
+    "artist": "Joel Sarakula",
+    "genre": "R&B/Soul",
+    "length": "4:07",
+    "release": "2024-11-08",
+    "about": "\"Microdosing\" is a psychedelic-tinged soft-rock track by Australian singer-songwriter Joel Sarakula, released on November 8, 2024, on his album Soft Focus",
+    "rating": 5,
+    "image": "images/softfocus.png"
+  },
+  {
+    "songID": 7,
+    "name": "What Is Hip?",
+    "album": "Tower of Power",
+    "artist": "Tower Of Power",
+    "genre": "R&B/Soul",
+    "length": "5:05",
+    "release": "1973-05-01",
+    "about": "Written by Emilio Castillo, Stephen \"Doc\" Kupka, and David Garibaldi, \"What is Hip?\" features lead vocals by Lenny Williams and is famous for its tight horn arrangements and Rocco Prestia's driving sixteenth-note bass groove.",
+    "rating": 5,
+    "image": "images/towerofpower.png"
+  },
+  {
+    "songID": 8,
+    "name": "WHIP.wav",
+    "album": "MYT",
+    "artist": "Moses Yoofee Trio",
+    "genre": "Jazz",
+    "length": "1:38",
+    "release": "2024-10-18",
+    "about": "\"WHIP.wav\" is both the lead single and the closing \"encore\" track on the trio's debut album, MYT.",
+    "rating": 5,
+    "image": "images/myt.png"
+  },
+  {
+    "songID": 9,
+    "name": "Talk Meaning",
+    "album": "Talk Memory",
+    "artist": "BADBADNOTGOOD, Terrace Martin, Brandee Younger, Arthur Verocai",
+    "genre": "Jazz",
+    "length": "6:14",
+    "release": "2021-07-15",
+    "about": "Released as the closing track on their 2021 album, Talk Meaning marks the start of a new era for the band, focusing more on live instrumentation and bands compared to hip-hop focused beats.",
+    "rating": 5,
+    "image": "images/talkmemory.png"
+  },
+  {
+    "songID": 10,
+    "name": "Smile",
+    "album": "Durand Jones & The Indications",
+    "artist": "Durand Jones & The Indications",
+    "genre": "R&B/Soul",
+    "length": "3:49",
+    "release": "2015-05-16",
+    "about": "Smile was released as the band's debut single.",
+    "rating": 5,
+    "image": "images/djati.png"
+  }
 ]
